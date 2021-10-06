@@ -16,9 +16,9 @@
 
 <h3><p align="center">Version: 1.0 Alpha</p></h3>
 
-![image](https://github.com/Kiny-Kiny/SpamReport/blob/main/IMG-20210803-WA0578.jpg)
+![image](https://github.com/CoolBoyYTr/SpamReport/blob/main/IMG-20210803-WA0578.jpg)
 
-![banner](https://github.com/Kiny-Kiny/SpamReport/blob/main/IMG-20210620-WA0488.jpg)
+![banner](https://github.com/CoolBoyYTr/SpamReport/blob/main/IMG-20210620-WA0488.jpg)
 > Activa esta opción en gmail donde usarás.
 
 > Obs: usuários de IOS, entren aqui [**aqui**](https://myaccount.google.com/lesssecureapps?pli=1&rapt=AEjHL4OSggjYOgt8g8HbgSU58LpUqQ5GsD63ipENqa84YegMHionqqvIXMMoc4bqu-C0GH0N--Kal_AFpd5rRJYyO0g-y1AbEQ)
